@@ -6,7 +6,7 @@ import cu.edu.cujae.ceis.tree.binary.BinaryTreeNode;
 import cu.edu.cujae.ceis.tree.iterators.binary.SymmetricIterator;
 /**
  * 
- * @author Diana Rodríguez Colli - Estudiante del if-24 curso 2013-2014
+ * @author Diana Rodriguez Colli - Estudiante del if-24 curso 2013-2014
  *
  * @param <E>
  */
